@@ -20,8 +20,9 @@ function iLoveTheBeatles(num){
   var result=[]
   var i= 0
   
-  do{ result.push()
+  do{ result.push("I love the Beatles!")
     
   }
   while(i<num+1)
+  return result
 }
